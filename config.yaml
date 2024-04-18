@@ -1,0 +1,33 @@
+headers:
+  Accept: '*/*'
+  authority: 'api.bilibili.com'
+  Accept-Encoding: 'gzip, deflate, br'
+  Accept-Language: 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6'
+  Cookie: 'buvid3=AC1D843C-7C6D-06ED-7832-61B492087FCD54827infoc; b_nut=1687347654; i-wanna-go-back=-1; _uuid=F310FE262-32AB-F259-3785-EDF12422BC1751103infoc; buvid4=54DA6AD4-5B9D-811C-7853-9CD3811FE63655893-023062119-7XDfT9HnZ76xB03lkS5sUNQubeKpvsLZvHGGd%2FzlR715Tdtyl8Aoug%3D%3D; hit-dyn-v2=1; DedeUserID=329341133; DedeUserID__ckMd5=acfa5c750e5b3e7f; LIVE_BUVID=AUTO3516873482011984; b_ut=5; rpdid=0z9ZwfQgnR|vEGZW6kD|25k|3w1QbXBp; nostalgia_conf=-1; buvid_fp_plain=undefined; hit-new-style-dyn=1; FEED_LIVE_VERSION=V8; dy_spec_agreed=1; CURRENT_BLACKGAP=0; CURRENT_FNVAL=4048; enable_web_push=DISABLE; header_theme_version=CLOSE; CURRENT_QUALITY=80; fingerprint=97aed0e289b54152b821373e6d259c16; home_feed_column=5; buvid_fp=97aed0e289b54152b821373e6d259c16; bp_video_offset_329341133=904656116988772360; SESSDATA=e7681d65%2C1725454152%2C8ac08%2A31CjDgIP2Ef5cB_c94cPpupC7JU8f3C2Ob0XNo_aD1XWQ8CcoEISgR-6bW17SZFZgs84MSVnAzVTlTRUNva0VWZ0h2MUM4QkNCcXNIY2ZqeHR4ZzhZX0tYUTlMOHhEM3ZWbEpQUzRIYUoyamtGRXdSaDh3Vms0c3RiYU85aFoyVTlENVM4a3hQWU53IIEC; bili_jct=9f83aeee9985caf3d99e8678d6dcac6f; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTAxNjEzNTMsImlhdCI6MTcwOTkwMjA5MywicGx0IjotMX0.jTm9kKdIUblDQmPfrh4zwauMcbWnqj04SN-i96nZShU; bili_ticket_expires=1710161293; PVID=4; bsource=search_bing; sid=6k4agshx; browser_resolution=1482-759; b_lsid=A499413C_18E23D1D41F'
+  Origin: 'https://www.bilibili.com'
+  Referer: 'https://www.bilibili.com/video/BV1Ly4y1K7mH/?spm_id_from=333.337.search-card.all.click&vd_source=801c185acce8cc601a5f169e9952e119'
+  Sec-Ch-Ua: '"Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"'
+  Sec-Ch-Ua-Mobile: '?1'
+  Sec-Ch-Ua-Platform: '"Android"'
+  Sec-Fetch-Dest: 'empty'
+  Sec-Fetch-Mode: 'cors'
+  Sec-Fetch-Site: 'same-site'
+  User-Agent: 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36 Edg/122.0.0.0'
+
+payload:
+  type: 1
+  mode: 3
+  plat: 1
+  web_location: 1315875
+
+oid:
+  - 535846757 # 价格曝光！只有个位数的预制菜！外卖商家的秘密竟然被我无意发现了...
+  - 318651384 # 这就是我拒绝预制菜的理由
+  - 966726464 # 据说点外卖不能备注口味的全是预制菜？小伙实测一波结果如何？
+  - 960593936 # 料理包进化，连炒饭煎蛋都能预制？渗透餐饮行业，是谁制造了美食荒漠？【商业B面&牛顿】
+  #- 737397187 # 靠预制菜开店300家的“排队王”，味道一言难尽！【凭啥排长队ep05-外婆家总店】
+  - 344626852 # 【半佛】人类逃不过预制菜。
+  - 302895029 # 3元外卖料理包，你敢吃吗？全是科技与狠活？！
+  - 789835078 # 你真的了解，什么是预制菜吗？
+  - 664098791 # 70%外卖都是预制菜，中餐的终点会是预制菜吗？【阿Test正经比比】
+  - 1450893212 # 你以为是现做的菜，有可能是预制菜！
